@@ -3,7 +3,7 @@
 
 Single-metric dashboards hide portfolio problems. This analysis demonstrates how **comparative visualization** exposes the strategic disconnect between growth and revenue, a pattern invisible when metrics are analyzed separately.
 
-![Growth to Market Share Imbalance](Growth_to_Market_Share_Imbalance.png)
+![Growth to Market Share Imbalance](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Growth_to_Market_Share_Imbalance.png)
 
 ---
 
@@ -21,7 +21,7 @@ Most portfolio reviews examine metrics separately:
 ## The Analysis: Three Visualizations, One Strategic Insight
 
 ### Visualization 1: Growth Looks Impressive
-![Growth Rate Analysis](Chart1_Growth_Only.png)
+![Growth Rate Analysis](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Chart1_Growth_Only.png)
 
 **What executives see:** Natural Energy achieves 32.4% CAGR, a strong growth story.
 
@@ -30,7 +30,7 @@ Most portfolio reviews examine metrics separately:
 ---
 
 ### Visualization 2: Revenue Looks Stable  
-![Portfolio Share Analysis](Chart2_MarketShare_Only.png)
+![Portfolio Share Analysis](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Chart2_MarketShare_Only.png)
 
 **What executives see:** Hadlock Falls generates 39% of revenue, a portfolio leader.
 
@@ -39,7 +39,7 @@ Most portfolio reviews examine metrics separately:
 ---
 
 ### Visualization 3: The Truth Emerges
-![Growth-Share Imbalance Comparison](Growth_to_Market_Share_Imbalance.png)
+![Growth-Share Imbalance Comparison](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Growth_to_Market_Share_Imbalance.png)
 
 **What comparative analysis reveals:**
 - **Fastest growth (32.4% CAGR) = Smallest revenue (9%)**
