@@ -21,7 +21,7 @@ Most portfolio reviews examine metrics separately:
 ## The Analysis: Three Visualizations, One Strategic Insight
 
 ### Visualization 1: Growth Looks Impressive
-![Growth Rate Analysis](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Growth-Rate_Analysis.png)
+![Growth Rate Analysis](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Growth_Rate_Analysis.png)
 
 **What executives see:** Natural Energy achieves 32.4% CAGR, a strong growth story.
 
