@@ -21,7 +21,7 @@ Most portfolio reviews examine metrics separately:
 ## The Analysis: Three Visualizations, One Strategic Insight
 
 ### Visualization 1: Growth Looks Impressive
-![Growth Rate Analysis](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Chart1_Growth_Only.png)
+![Growth Rate Analysis](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Growth-Rate_Analysis.png)
 
 **What executives see:** Natural Energy achieves 32.4% CAGR, a strong growth story.
 
@@ -30,7 +30,7 @@ Most portfolio reviews examine metrics separately:
 ---
 
 ### Visualization 2: Revenue Looks Stable  
-![Portfolio Share Analysis](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Chart2_MarketShare_Only.png)
+![Portfolio Share Analysis](https://raw.githubusercontent.com/mslawsky/portfolio-growth-share-analysis/main/Portfolio_Share_Analysis.png)
 
 **What executives see:** Hadlock Falls generates 39% of revenue, a portfolio leader.
 
